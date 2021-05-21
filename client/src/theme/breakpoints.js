@@ -1,0 +1,1 @@
+export const breakpoints = ['30em', '55em', '62em', '80em']
